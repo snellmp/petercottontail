@@ -6,7 +6,7 @@
   * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 header {
-  background-image: url(../images/header3.JPG);
+  background-image: url(../images/header3.jpg);
   background-size: cover;
   padding: 2px;
   background-attachment: fixed;
